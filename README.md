@@ -1,1 +1,1 @@
-# test new change in AngularGit
+# test new change in AngularGit inside QAS
